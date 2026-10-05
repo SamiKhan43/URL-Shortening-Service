@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# The database file (contains local test data, not needed in the repo)
+shorturls.db
+
+# Editor/OS junk
+.vscode/
+.DS_Store
